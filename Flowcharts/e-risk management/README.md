@@ -1,6 +1,10 @@
-Description: The process of identifying failure modes and define corrective actions based on the risks analyses performed over the AI.
-Outcomes: Identification of risk, recomencdations for risk treatment and metrics to track them.
-Activities: 
+## Description:
+The process of identifying failure modes and define corrective actions based on the risks analyses performed over the AI.
+
+## Outcomes:
+Identification of risk, recomencdations for risk treatment and metrics to track them.
+
+## Activities: 
    - Establishing context: Define for each artefact their connectivity, human agency, constraings, hierarchy, diagrams, requirements, and values
    - Risk analysis and evaluation: Perform e-risk. Include risk analyses for processes and system design depending on the stage, definitions, and definitions previously defined. --- This is an extended flowchart.
    - Desing Risk Analysis: Consider running in parallel risk analysis and evaluation tools for the general design process.
@@ -15,3 +19,12 @@ Activities:
    - Restart: Restart the framework incorporating the new components
    - Review, update, implementation and control: Evaluate the update and status of your risk. Communica and perform consultations based on these results and any feedback derived from the risk identification process, the risk analysis, the risk evaluation, and the recommendations based on risk treatment, transfer, termination or tolerance. Define what approaches will be implemented as risk treatment.
    - Re-initiate e-Risk Identificatino and Consider Internal Audit: Re-evaluate the risk level of the AI component or, if needed, re-initiate the use of the framework with the tratments modifcations. Additinally consider implementing internal audit for evalluation the implementation of the 4T's
+
+
+## Authors:
+Eduardo Vyhmeister, Phd. 
+Gabriel González-Castañé, Phd.
+
+## Contacts:
+eduardo.vyhmeister@insight-centre.org <br />
+gabriel.castane@insight-centre.org <br />
